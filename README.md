@@ -1,6 +1,6 @@
-check list for the express project initial setup : 
+check list for the express project initial setup :
 GIT setup
-Node version manager setup 
+Node version manager setup
 TypeScript setup
 Prettier setup
 Eslint setup
@@ -10,4 +10,4 @@ Expressjs app setup
 Logger setup
 Error Handling setup
 Tests setup
-Create Template 
+Create Template
