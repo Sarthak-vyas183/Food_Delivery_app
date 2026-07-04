@@ -7,7 +7,10 @@ Eslint setup
 Git hook setup
 application config setup
 Expressjs app setup   ----> npm i -D @types/express
-Logger setup
+Logger setup   --
+{
+    npm i winston 
+}
 Error Handling setup
 Tests setup
 Create Template
