@@ -15,6 +15,6 @@ export default defineConfig({
     }
   },
  rules : {
-   'no-console': 'warn'
+   'no-console': 'off'
  }
 });
